@@ -1,0 +1,286 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* Create a container image and content in this website */
+.container-iamge{
+    display: flex;
+    background: #F8F8F8;
+    height: 580px;
+}
+
+.container-iamge .image img{
+    width: 650px;
+    margin-right: 20px;
+    margin-left: -65px;
+}
+
+.side-container{
+    margin-top: 150px;
+    margin-left: 80px;
+}
+.side-container h2{
+    font-size: 30px;
+    font-style: italic;
+}
+
+.side-container h1{
+    margin-top: 20px;
+    font-size: 40px;
+}
+
+.side-container .pa{
+    margin-top: 10px;
+    font-size: 25px;
+    width: 550px;
+}
+
+.side-container input{
+    width: 400px;
+    margin-top: 20px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 13px 10px;
+    font-size: 17px;
+    margin-right: 5px;
+}
+
+.side-container a{
+    text-decoration: none;
+    box-shadow: 8px 4px 15px lightgrey;
+    background: #07875F;
+    font-weight: bold;
+    padding: 15px 28px;
+    border-radius: 5px;
+    color: white;
+}
+
+.side-container .pa1{
+    margin-top: 20px;
+    font-size: 13px;
+    width: 570px;
+}
+
+
+
+/* create dropshipping work add in this website */
+.work{
+    margin-top: 100px;
+    margin-bottom: 60px;
+    text-align: center;
+}
+.work h1{
+    font-size: 40px;
+}
+.work p{
+    width: 600px;
+    margin: auto;
+    padding-top: 12px;
+    font-size: 20px;
+}
+
+
+/* create a 4 image add in this website */
+.image4{
+    display: flex;
+    margin-left: 60px;
+    margin-bottom: 13px;
+}
+
+.image4 .image2{
+    padding-right: 30px;
+    padding-left: 20px;
+}
+
+
+
+/* create a 4 steps add in this website */
+.steps4{
+    text-align: center;
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.steps4 .step p{
+    width: 300px;
+    padding-left: 40px;
+    font-size: 20px;
+}
+
+.steps4 .step h1{
+    padding-left: 80px;
+    margin-bottom: 10px;
+}
+.steps4 .step3{
+    margin-left: 60px;
+}
+
+.steps4 .step3{
+    margin-left: 10px;
+    margin-right: 20px;
+}
+
+
+
+/* create a two images in this website */
+.imagess{
+    margin-left: 100px;
+    float: left;
+    margin-bottom: 80px;
+}
+
+.jumpstart{
+    margin-top: 40px;
+    float: left;
+    margin-left: 80px;
+    width: 500px;
+
+}
+.jumpstart h3{
+    font-size: 30px;
+}
+
+.launch{
+    float: left;
+    width: 600px;
+    margin-left: 80px;
+    display: flex;
+    margin-top: 40px;
+}
+
+.launch .launch1{
+    margin-right: 40px;
+}
+
+.launch .launchh h2{
+    margin-bottom: 15px;
+}
+.launch .launchh P{
+    color: grey;
+    line-height: 24px;
+    font-size: 18px;
+}
+.launchhh{
+    margin-top: 130px;
+}
+
+
+
+/* create a double image add in this website */
+.double-image{
+    background: #C5CBC9;
+    clear: both;
+    height: 1100px;
+}
+
+.double-image .heading1 h1{
+    text-align: center;
+    padding-top: 100px;
+    font-weight: 500;
+}
+
+.double-image .man-image img{
+    padding-top: 100px;
+    width: 600px;
+    margin-left: 90px;
+    margin-bottom: 40px;
+    float: left;
+}
+.double-image .container1{
+    background-color: #174224;
+    margin-top: 100px;
+    height: 490px;
+    width: 550px;
+    float: left;
+}
+
+.double-image .container1 p{
+    color: white;
+    padding-top: 120px;
+    width: 400px;
+    font-size: 35px;
+    text-align: center;
+    margin: auto;
+}
+
+.double-image .container1 .para2{
+    font-size: 22px;
+}
+
+.double-image .container2{
+    background: white;
+    height: 220px;
+    width: 580px;
+    clear: both;
+    margin-left: 90px;
+    float: left;
+}
+
+.double-image .container2 .para3{
+    text-align: center;
+    padding-top: 40px;
+    font-size: 23px;
+    width: 400px;
+    margin: auto;
+}
+
+.double-image .container2 .para4{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 23px;
+    color: grey;
+    width: 400px;
+    margin: auto;
+}
+
+.double-image .container3{
+    background: white;
+    height: 220px;
+    width: 530px;
+    float: left;
+    margin-left: 40px;
+    
+
+}
+
+.double-image .container3 .para3{
+    text-align: center;
+    padding-top: 40px;
+    font-size: 23px;
+    width: 400px;
+    margin: auto;
+}
+
+.double-image .container3 .para4{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 23px;
+    color: grey;
+    width: 400px;
+    margin: auto;
+}
+
+.container1-image .side-container{
+    text-align: center;
+    margin: auto;
+    align-items: center;
+}
+
+.container1-image .side-container .paragra{
+    width: 760px;
+    font-size: 20px;
+}
+.container1-image .side-container .paragra1{
+    width: 520px;
+    font-size: 18px;
+    margin-left: 110px;
+
+}
+
+
+.container1-image .side-container .paragra2{
+    font-size: 30px;
+}
